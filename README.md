@@ -1,5 +1,5 @@
 # About project
-1.Photon project is a project that fetch photos for external api like pexels.
+1.Photon project is a project that fetch photos from external api like pexels.
 
 2.Using asynchronous javascript to fetch data from api 
 # Note
